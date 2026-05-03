@@ -10,7 +10,7 @@ The **Abstraction and Reasoning Corpus (ARC-AGI)** challenges AI systems to infe
 
 Given a few training pairs `(input grid → output grid)`, the system searches a space of compositional programs until it finds one that correctly maps every input to its expected output.
 
-Built entirely in **Python** for **COSC 3P71** (Artificial Intelligence) at Brock University.
+Built entirely in **Python** 
 
 ---
 
